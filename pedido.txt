@@ -1,0 +1,10 @@
+Tipo: Pedido para Retirada
+Endereço da Loja: Rua dos Clientes 123 - Bairro Das Lojas
+Produtos:
+- Notebook (Quantidade: 1)
+
+Tipo: Pedido Online
+Endereço de Entrega: sdasdasdasda
+Produtos:
+- Cachecol (Quantidade: 5)
+
